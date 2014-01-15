@@ -1,0 +1,6 @@
+{
+  "address": "publisher.popanyform.com",
+  "hostgroups": ["publisher_cluster"],
+  "id": "publisher_cluster",
+  "notifications": 1
+}
